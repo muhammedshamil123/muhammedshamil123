@@ -12,7 +12,7 @@
 - 👀 I’m interested in **full-stack development, backend architecture, and cloud services**  
 - 🌱 I’m currently learning: **Advanced React Hooks, Gin-Gonic (Go), PostgreSQL optimization, and Firebase**  
 - 💞️ I’m open to collaborating on **Go, React, or cloud-native projects**  
-- 📫 Reach me: [muhammedshamildev@gmail.com](mailto:muhammedshamildev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammed-shamil-7bb498233/)  
+- 📫 Reach me: [muhammedshamildev@gmail.com](mailto:sshazz93@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammed-shamil-7bb498233/)  
 - 😄 Pronouns: **He/Him**  
 - ⚡ Fun fact: I love creating things from scratch – whether it’s a side project or a plate of biryani 🍛
 
@@ -39,7 +39,6 @@
 
 #### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
